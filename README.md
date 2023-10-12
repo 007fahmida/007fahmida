@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Fahmida 
 ![](https://www.macworld.com/wp-content/uploads/2023/01/learn_git_mac.jpg?quality=50&strip=all)
 
-Despite not having started yet, I am deeply fascinated by the world of digital security. The idea of defending against cyber threats and ensuring the safety of online spaces excites and motivates me.
+
 
 
 - 🔭 I’m currently working on this page. 
