@@ -3,7 +3,6 @@
 
 Despite not having started yet, I am deeply fascinated by the world of digital security. The idea of defending against cyber threats and ensuring the safety of online spaces excites and motivates me.
 
-Skills: JAVA / C / C++
 
 - 🔭 I’m currently working on this page. 
 
