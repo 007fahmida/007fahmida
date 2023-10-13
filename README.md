@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahmida</h1>
-### Hi there 👋, my name is Fahmida
-(![](https://static.vecteezy.com/system/resources/previews/023/422/246/original/cute-cat-working-on-laptop-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
