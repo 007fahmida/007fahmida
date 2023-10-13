@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahmida</h1>
-![I am GitHub Readme Generator's creator](https://media0.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif?cid=ecf05e475xm7r94uigppfl9bzho870gkn7pt0yqhddknqnbd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![](https://static.vecteezy.com/system/resources/previews/023/422/246/original/cute-cat-working-on-laptop-cartoon-icon-illustration-animal-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
